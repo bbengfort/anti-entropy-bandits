@@ -1,0 +1,1181 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "Network Topology"
+  },
+  "nodes": [
+    {
+      "id": "California"
+    },
+    {
+      "id": "Canada"
+    },
+    {
+      "id": "Frankfurt"
+    },
+    {
+      "id": "Ireland"
+    },
+    {
+      "id": "London"
+    },
+    {
+      "id": "Mumbai"
+    },
+    {
+      "id": "Ohio"
+    },
+    {
+      "id": "Oregon"
+    },
+    {
+      "id": "Paris"
+    },
+    {
+      "id": "Sao Paulo"
+    },
+    {
+      "id": "Seoul"
+    },
+    {
+      "id": "Singapore"
+    },
+    {
+      "id": "Sydney"
+    },
+    {
+      "id": "Tokyo"
+    },
+    {
+      "id": "Virginia"
+    }
+  ],
+  "links": [
+    {
+      "weight": 4.064933333333332,
+      "source": "California",
+      "target": "California"
+    },
+    {
+      "weight": 145.94373333333334,
+      "source": "California",
+      "target": "Canada"
+    },
+    {
+      "weight": 291.34911111111103,
+      "source": "California",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 256.3006,
+      "source": "California",
+      "target": "Ireland"
+    },
+    {
+      "weight": 276.7390444444445,
+      "source": "California",
+      "target": "London"
+    },
+    {
+      "weight": 457.3907333333334,
+      "source": "California",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 103.10279999999999,
+      "source": "California",
+      "target": "Ohio"
+    },
+    {
+      "weight": 52.840311111111106,
+      "source": "California",
+      "target": "Oregon"
+    },
+    {
+      "weight": 283.39404444444443,
+      "source": "California",
+      "target": "Paris"
+    },
+    {
+      "weight": 310.9422,
+      "source": "California",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 250.82115555555563,
+      "source": "California",
+      "target": "Seoul"
+    },
+    {
+      "weight": 301.8226888888889,
+      "source": "California",
+      "target": "Singapore"
+    },
+    {
+      "weight": 304.92197777777767,
+      "source": "California",
+      "target": "Sydney"
+    },
+    {
+      "weight": 188.10022222222221,
+      "source": "California",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 108.4518,
+      "source": "California",
+      "target": "Virginia"
+    },
+    {
+      "weight": 141.2704888888889,
+      "source": "Canada",
+      "target": "California"
+    },
+    {
+      "weight": 1.5214666666666667,
+      "source": "Canada",
+      "target": "Canada"
+    },
+    {
+      "weight": 209.34208888888892,
+      "source": "Canada",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 145.97240000000002,
+      "source": "Canada",
+      "target": "Ireland"
+    },
+    {
+      "weight": 168.45722222222224,
+      "source": "Canada",
+      "target": "London"
+    },
+    {
+      "weight": 370.5464888888889,
+      "source": "Canada",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 50.92933333333334,
+      "source": "Canada",
+      "target": "Ohio"
+    },
+    {
+      "weight": 124.79208888888891,
+      "source": "Canada",
+      "target": "Oregon"
+    },
+    {
+      "weight": 173.09813333333335,
+      "source": "Canada",
+      "target": "Paris"
+    },
+    {
+      "weight": 236.60213333333328,
+      "source": "Canada",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 351.6348222222222,
+      "source": "Canada",
+      "target": "Seoul"
+    },
+    {
+      "weight": 346.0451111111111,
+      "source": "Canada",
+      "target": "Singapore"
+    },
+    {
+      "weight": 428.9978666666667,
+      "source": "Canada",
+      "target": "Sydney"
+    },
+    {
+      "weight": 311.47962222222225,
+      "source": "Canada",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 43.33191111111112,
+      "source": "Canada",
+      "target": "Virginia"
+    },
+    {
+      "weight": 303.39008888888884,
+      "source": "Frankfurt",
+      "target": "California"
+    },
+    {
+      "weight": 197.2655333333333,
+      "source": "Frankfurt",
+      "target": "Canada"
+    },
+    {
+      "weight": 4.018433333333332,
+      "source": "Frankfurt",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 51.36286666666666,
+      "source": "Frankfurt",
+      "target": "Ireland"
+    },
+    {
+      "weight": 44.26308888888889,
+      "source": "Frankfurt",
+      "target": "London"
+    },
+    {
+      "weight": 218.2864222222222,
+      "source": "Frankfurt",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 194.74171111111113,
+      "source": "Frankfurt",
+      "target": "Ohio"
+    },
+    {
+      "weight": 319.13473333333343,
+      "source": "Frankfurt",
+      "target": "Oregon"
+    },
+    {
+      "weight": 37.136977777777766,
+      "source": "Frankfurt",
+      "target": "Paris"
+    },
+    {
+      "weight": 355.3964222222222,
+      "source": "Frankfurt",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 458.6952222222223,
+      "source": "Frankfurt",
+      "target": "Seoul"
+    },
+    {
+      "weight": 273.73442222222224,
+      "source": "Frankfurt",
+      "target": "Singapore"
+    },
+    {
+      "weight": 591.3826888888891,
+      "source": "Frankfurt",
+      "target": "Sydney"
+    },
+    {
+      "weight": 372.83633333333336,
+      "source": "Frankfurt",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 158.3839555555556,
+      "source": "Frankfurt",
+      "target": "Virginia"
+    },
+    {
+      "weight": 257.9354888888889,
+      "source": "Ireland",
+      "target": "California"
+    },
+    {
+      "weight": 148.13673333333332,
+      "source": "Ireland",
+      "target": "Canada"
+    },
+    {
+      "weight": 57.99293333333332,
+      "source": "Ireland",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 2.4028333333333336,
+      "source": "Ireland",
+      "target": "Ireland"
+    },
+    {
+      "weight": 37.10662222222223,
+      "source": "Ireland",
+      "target": "London"
+    },
+    {
+      "weight": 233.80879999999996,
+      "source": "Ireland",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 164.85362222222224,
+      "source": "Ireland",
+      "target": "Ohio"
+    },
+    {
+      "weight": 287.3870888888889,
+      "source": "Ireland",
+      "target": "Oregon"
+    },
+    {
+      "weight": 47.996933333333345,
+      "source": "Ireland",
+      "target": "Paris"
+    },
+    {
+      "weight": 314.89164444444435,
+      "source": "Ireland",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 420.0876222222223,
+      "source": "Ireland",
+      "target": "Seoul"
+    },
+    {
+      "weight": 299.2954888888889,
+      "source": "Ireland",
+      "target": "Singapore"
+    },
+    {
+      "weight": 563.2062666666667,
+      "source": "Ireland",
+      "target": "Sydney"
+    },
+    {
+      "weight": 364.6836222222222,
+      "source": "Ireland",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 127.23904444444443,
+      "source": "Ireland",
+      "target": "Virginia"
+    },
+    {
+      "weight": 255.51155555555556,
+      "source": "London",
+      "target": "California"
+    },
+    {
+      "weight": 165.58197777777775,
+      "source": "London",
+      "target": "Canada"
+    },
+    {
+      "weight": 39.68386666666667,
+      "source": "London",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 33.7314,
+      "source": "London",
+      "target": "Ireland"
+    },
+    {
+      "weight": 2.317266666666667,
+      "source": "London",
+      "target": "London"
+    },
+    {
+      "weight": 222.96591111111107,
+      "source": "London",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 163.46593333333328,
+      "source": "London",
+      "target": "Ohio"
+    },
+    {
+      "weight": 291.7006666666667,
+      "source": "London",
+      "target": "Oregon"
+    },
+    {
+      "weight": 30.97993333333333,
+      "source": "London",
+      "target": "Paris"
+    },
+    {
+      "weight": 339.2618888888889,
+      "source": "London",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 450.43006666666656,
+      "source": "London",
+      "target": "Seoul"
+    },
+    {
+      "weight": 267.4786888888888,
+      "source": "London",
+      "target": "Singapore"
+    },
+    {
+      "weight": 569.5881999999999,
+      "source": "London",
+      "target": "Sydney"
+    },
+    {
+      "weight": 416.4939555555556,
+      "source": "London",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 134.2475111111111,
+      "source": "London",
+      "target": "Virginia"
+    },
+    {
+      "weight": 450.92562222222216,
+      "source": "Mumbai",
+      "target": "California"
+    },
+    {
+      "weight": 368.35868888888893,
+      "source": "Mumbai",
+      "target": "Canada"
+    },
+    {
+      "weight": 186.87311111111114,
+      "source": "Mumbai",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 217.03133333333332,
+      "source": "Mumbai",
+      "target": "Ireland"
+    },
+    {
+      "weight": 204.11975555555557,
+      "source": "Mumbai",
+      "target": "London"
+    },
+    {
+      "weight": 4.297233333333335,
+      "source": "Mumbai",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 367.1516444444443,
+      "source": "Mumbai",
+      "target": "Ohio"
+    },
+    {
+      "weight": 386.4435777777778,
+      "source": "Mumbai",
+      "target": "Oregon"
+    },
+    {
+      "weight": 183.39897777777782,
+      "source": "Mumbai",
+      "target": "Paris"
+    },
+    {
+      "weight": 501.43671111111115,
+      "source": "Mumbai",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 266.915,
+      "source": "Mumbai",
+      "target": "Seoul"
+    },
+    {
+      "weight": 118.86591111111112,
+      "source": "Mumbai",
+      "target": "Singapore"
+    },
+    {
+      "weight": 455.4884444444445,
+      "source": "Mumbai",
+      "target": "Sydney"
+    },
+    {
+      "weight": 210.72722222222228,
+      "source": "Mumbai",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 327.71253333333334,
+      "source": "Mumbai",
+      "target": "Virginia"
+    },
+    {
+      "weight": 105.14835555555554,
+      "source": "Ohio",
+      "target": "California"
+    },
+    {
+      "weight": 53.9054,
+      "source": "Ohio",
+      "target": "Canada"
+    },
+    {
+      "weight": 209.47295555555553,
+      "source": "Ohio",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 164.4504888888889,
+      "source": "Ohio",
+      "target": "Ireland"
+    },
+    {
+      "weight": 163.22566666666665,
+      "source": "Ohio",
+      "target": "London"
+    },
+    {
+      "weight": 376.3982444444446,
+      "source": "Ohio",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 4.533966666666667,
+      "source": "Ohio",
+      "target": "Ohio"
+    },
+    {
+      "weight": 120.84915555555557,
+      "source": "Ohio",
+      "target": "Oregon"
+    },
+    {
+      "weight": 165.826,
+      "source": "Ohio",
+      "target": "Paris"
+    },
+    {
+      "weight": 258.7511111111111,
+      "source": "Ohio",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 329.0479777777777,
+      "source": "Ohio",
+      "target": "Seoul"
+    },
+    {
+      "weight": 414.32688888888885,
+      "source": "Ohio",
+      "target": "Singapore"
+    },
+    {
+      "weight": 393.6858666666667,
+      "source": "Ohio",
+      "target": "Sydney"
+    },
+    {
+      "weight": 331.20075555555553,
+      "source": "Ohio",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 35.03051111111111,
+      "source": "Ohio",
+      "target": "Virginia"
+    },
+    {
+      "weight": 47.42357777777776,
+      "source": "Oregon",
+      "target": "California"
+    },
+    {
+      "weight": 125.70406666666669,
+      "source": "Oregon",
+      "target": "Canada"
+    },
+    {
+      "weight": 326.48684444444444,
+      "source": "Oregon",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 275.64268888888887,
+      "source": "Oregon",
+      "target": "Ireland"
+    },
+    {
+      "weight": 271.51422222222214,
+      "source": "Oregon",
+      "target": "London"
+    },
+    {
+      "weight": 419.5918222222223,
+      "source": "Oregon",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 135.1061555555556,
+      "source": "Oregon",
+      "target": "Ohio"
+    },
+    {
+      "weight": 2.9791000000000007,
+      "source": "Oregon",
+      "target": "Oregon"
+    },
+    {
+      "weight": 276.1090666666667,
+      "source": "Oregon",
+      "target": "Paris"
+    },
+    {
+      "weight": 329.5931777777778,
+      "source": "Oregon",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 240.46682222222225,
+      "source": "Oregon",
+      "target": "Seoul"
+    },
+    {
+      "weight": 259.1812666666667,
+      "source": "Oregon",
+      "target": "Singapore"
+    },
+    {
+      "weight": 327.40079999999995,
+      "source": "Oregon",
+      "target": "Sydney"
+    },
+    {
+      "weight": 196.83411111111107,
+      "source": "Oregon",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 143.02700000000002,
+      "source": "Oregon",
+      "target": "Virginia"
+    },
+    {
+      "weight": 254.61877777777775,
+      "source": "Paris",
+      "target": "California"
+    },
+    {
+      "weight": 180.90933333333336,
+      "source": "Paris",
+      "target": "Canada"
+    },
+    {
+      "weight": 40.18282222222222,
+      "source": "Paris",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 41.95644444444443,
+      "source": "Paris",
+      "target": "Ireland"
+    },
+    {
+      "weight": 28.27264444444444,
+      "source": "Paris",
+      "target": "London"
+    },
+    {
+      "weight": 207.20375555555552,
+      "source": "Paris",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 183.69340000000008,
+      "source": "Paris",
+      "target": "Ohio"
+    },
+    {
+      "weight": 291.9250222222222,
+      "source": "Paris",
+      "target": "Oregon"
+    },
+    {
+      "weight": 9.489600000000001,
+      "source": "Paris",
+      "target": "Paris"
+    },
+    {
+      "weight": 341.1662222222222,
+      "source": "Paris",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 458.16217777777786,
+      "source": "Paris",
+      "target": "Seoul"
+    },
+    {
+      "weight": 257.49868888888886,
+      "source": "Paris",
+      "target": "Singapore"
+    },
+    {
+      "weight": 564.500577777778,
+      "source": "Paris",
+      "target": "Sydney"
+    },
+    {
+      "weight": 415.2544444444444,
+      "source": "Paris",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 145.9478666666667,
+      "source": "Paris",
+      "target": "Virginia"
+    },
+    {
+      "weight": 372.2758666666667,
+      "source": "Sao Paulo",
+      "target": "California"
+    },
+    {
+      "weight": 205.24417777777776,
+      "source": "Sao Paulo",
+      "target": "Canada"
+    },
+    {
+      "weight": 375.3689333333335,
+      "source": "Sao Paulo",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 335.8293555555555,
+      "source": "Sao Paulo",
+      "target": "Ireland"
+    },
+    {
+      "weight": 330.0732222222223,
+      "source": "Sao Paulo",
+      "target": "London"
+    },
+    {
+      "weight": 511.78182222222233,
+      "source": "Sao Paulo",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 249.41808888888895,
+      "source": "Sao Paulo",
+      "target": "Ohio"
+    },
+    {
+      "weight": 342.0669555555555,
+      "source": "Sao Paulo",
+      "target": "Oregon"
+    },
+    {
+      "weight": 372.8706666666668,
+      "source": "Sao Paulo",
+      "target": "Paris"
+    },
+    {
+      "weight": 4.315166666666667,
+      "source": "Sao Paulo",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 501.1283555555555,
+      "source": "Sao Paulo",
+      "target": "Seoul"
+    },
+    {
+      "weight": 563.8594666666665,
+      "source": "Sao Paulo",
+      "target": "Singapore"
+    },
+    {
+      "weight": 571.624688888889,
+      "source": "Sao Paulo",
+      "target": "Sydney"
+    },
+    {
+      "weight": 405.1992888888888,
+      "source": "Sao Paulo",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 188.76751111111113,
+      "source": "Sao Paulo",
+      "target": "Virginia"
+    },
+    {
+      "weight": 265.93188888888886,
+      "source": "Seoul",
+      "target": "California"
+    },
+    {
+      "weight": 332.26991111111107,
+      "source": "Seoul",
+      "target": "Canada"
+    },
+    {
+      "weight": 446.77568888888896,
+      "source": "Seoul",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 420.446511111111,
+      "source": "Seoul",
+      "target": "Ireland"
+    },
+    {
+      "weight": 490.67540000000014,
+      "source": "Seoul",
+      "target": "London"
+    },
+    {
+      "weight": 274.49368888888887,
+      "source": "Seoul",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 333.4650666666667,
+      "source": "Seoul",
+      "target": "Ohio"
+    },
+    {
+      "weight": 243.8983555555555,
+      "source": "Seoul",
+      "target": "Oregon"
+    },
+    {
+      "weight": 493.02793333333346,
+      "source": "Seoul",
+      "target": "Paris"
+    },
+    {
+      "weight": 485.0428888888891,
+      "source": "Seoul",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 3.2480666666666664,
+      "source": "Seoul",
+      "target": "Seoul"
+    },
+    {
+      "weight": 198.8034444444444,
+      "source": "Seoul",
+      "target": "Singapore"
+    },
+    {
+      "weight": 265.9188000000001,
+      "source": "Seoul",
+      "target": "Sydney"
+    },
+    {
+      "weight": 65.16422222222222,
+      "source": "Seoul",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 358.8512666666667,
+      "source": "Seoul",
+      "target": "Virginia"
+    },
+    {
+      "weight": 305.16477777777783,
+      "source": "Singapore",
+      "target": "California"
+    },
+    {
+      "weight": 408.9410444444444,
+      "source": "Singapore",
+      "target": "Canada"
+    },
+    {
+      "weight": 322.9233777777779,
+      "source": "Singapore",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 353.3017555555556,
+      "source": "Singapore",
+      "target": "Ireland"
+    },
+    {
+      "weight": 306.97593333333333,
+      "source": "Singapore",
+      "target": "London"
+    },
+    {
+      "weight": 112.3004,
+      "source": "Singapore",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 454.71573333333345,
+      "source": "Singapore",
+      "target": "Ohio"
+    },
+    {
+      "weight": 297.78979999999996,
+      "source": "Singapore",
+      "target": "Oregon"
+    },
+    {
+      "weight": 278.13211111111104,
+      "source": "Singapore",
+      "target": "Paris"
+    },
+    {
+      "weight": 630.0645777777778,
+      "source": "Singapore",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 205.85637777777774,
+      "source": "Singapore",
+      "target": "Seoul"
+    },
+    {
+      "weight": 2.8599999999999994,
+      "source": "Singapore",
+      "target": "Singapore"
+    },
+    {
+      "weight": 342.2656888888889,
+      "source": "Singapore",
+      "target": "Sydney"
+    },
+    {
+      "weight": 141.55071111111113,
+      "source": "Singapore",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 436.6490444444446,
+      "source": "Singapore",
+      "target": "Virginia"
+    },
+    {
+      "weight": 279.70357777777775,
+      "source": "Sydney",
+      "target": "California"
+    },
+    {
+      "weight": 392.50797777777785,
+      "source": "Sydney",
+      "target": "Canada"
+    },
+    {
+      "weight": 480.4139777777778,
+      "source": "Sydney",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 467.01993333333326,
+      "source": "Sydney",
+      "target": "Ireland"
+    },
+    {
+      "weight": 524.347888888889,
+      "source": "Sydney",
+      "target": "London"
+    },
+    {
+      "weight": 412.8392444444445,
+      "source": "Sydney",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 338.3025333333333,
+      "source": "Sydney",
+      "target": "Ohio"
+    },
+    {
+      "weight": 289.87506666666667,
+      "source": "Sydney",
+      "target": "Oregon"
+    },
+    {
+      "weight": 480.34953333333334,
+      "source": "Sydney",
+      "target": "Paris"
+    },
+    {
+      "weight": 526.2180666666666,
+      "source": "Sydney",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 254.3225555555556,
+      "source": "Sydney",
+      "target": "Seoul"
+    },
+    {
+      "weight": 362.0501111111111,
+      "source": "Sydney",
+      "target": "Singapore"
+    },
+    {
+      "weight": 3.5065999999999997,
+      "source": "Sydney",
+      "target": "Sydney"
+    },
+    {
+      "weight": 200.949,
+      "source": "Sydney",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 391.33544444444453,
+      "source": "Sydney",
+      "target": "Virginia"
+    },
+    {
+      "weight": 215.2211111111111,
+      "source": "Tokyo",
+      "target": "California"
+    },
+    {
+      "weight": 287.99491111111115,
+      "source": "Tokyo",
+      "target": "Canada"
+    },
+    {
+      "weight": 417.19866666666655,
+      "source": "Tokyo",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 387.18982222222223,
+      "source": "Tokyo",
+      "target": "Ireland"
+    },
+    {
+      "weight": 459.4212444444444,
+      "source": "Tokyo",
+      "target": "London"
+    },
+    {
+      "weight": 218.2081777777778,
+      "source": "Tokyo",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 256.74617777777786,
+      "source": "Tokyo",
+      "target": "Ohio"
+    },
+    {
+      "weight": 204.7857333333334,
+      "source": "Tokyo",
+      "target": "Oregon"
+    },
+    {
+      "weight": 441.85313333333335,
+      "source": "Tokyo",
+      "target": "Paris"
+    },
+    {
+      "weight": 436.5787777777779,
+      "source": "Tokyo",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 68.57386666666667,
+      "source": "Tokyo",
+      "target": "Seoul"
+    },
+    {
+      "weight": 146.9784666666667,
+      "source": "Tokyo",
+      "target": "Singapore"
+    },
+    {
+      "weight": 206.9344000000001,
+      "source": "Tokyo",
+      "target": "Sydney"
+    },
+    {
+      "weight": 2.7709666666666664,
+      "source": "Tokyo",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 334.48162222222214,
+      "source": "Tokyo",
+      "target": "Virginia"
+    },
+    {
+      "weight": 124.53197777777777,
+      "source": "Virginia",
+      "target": "California"
+    },
+    {
+      "weight": 41.96068888888888,
+      "source": "Virginia",
+      "target": "Canada"
+    },
+    {
+      "weight": 188.61344444444444,
+      "source": "Virginia",
+      "target": "Frankfurt"
+    },
+    {
+      "weight": 138.0792888888889,
+      "source": "Virginia",
+      "target": "Ireland"
+    },
+    {
+      "weight": 141.89944444444444,
+      "source": "Virginia",
+      "target": "London"
+    },
+    {
+      "weight": 378.0457555555557,
+      "source": "Virginia",
+      "target": "Mumbai"
+    },
+    {
+      "weight": 39.47795555555555,
+      "source": "Virginia",
+      "target": "Ohio"
+    },
+    {
+      "weight": 137.33324444444443,
+      "source": "Virginia",
+      "target": "Oregon"
+    },
+    {
+      "weight": 141.10677777777775,
+      "source": "Virginia",
+      "target": "Paris"
+    },
+    {
+      "weight": 246.9644666666667,
+      "source": "Virginia",
+      "target": "Sao Paulo"
+    },
+    {
+      "weight": 369.27837777777773,
+      "source": "Virginia",
+      "target": "Seoul"
+    },
+    {
+      "weight": 428.41735555555545,
+      "source": "Virginia",
+      "target": "Singapore"
+    },
+    {
+      "weight": 379.7207999999999,
+      "source": "Virginia",
+      "target": "Sydney"
+    },
+    {
+      "weight": 319.0309111111112,
+      "source": "Virginia",
+      "target": "Tokyo"
+    },
+    {
+      "weight": 2.721133333333333,
+      "source": "Virginia",
+      "target": "Virginia"
+    }
+  ]
+}
