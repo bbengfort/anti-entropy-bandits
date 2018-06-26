@@ -26,7 +26,9 @@ def graph_from_latency(path):
     with open(path, 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            G.add_edge(row['src'], row['dst'], weight=float(row['sync']))
+            data = {key: float(row[key]) for key in ('pull', 'push', 'sync')}
+
+            G.add_edge(row['src'], row['dst'], weight=data['sync'], **data)
 
     return G
 

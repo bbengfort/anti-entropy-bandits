@@ -99,7 +99,7 @@ def draw_graph(G, ax=None, circular=True):
     edgecolors = []
 
     for v, data in G.nodes(data=True):
-        node_sizes.append(data.get('size', 900))
+        node_sizes.append(data.get('size', 1200))
         node_labels[v] = data.get('label', LOCATION_CODES[v])
 
         node_color = data.get('color', LOCATION_COLORS[v])
@@ -111,7 +111,7 @@ def draw_graph(G, ax=None, circular=True):
             edgecolors.append(data.get('halo_color', '#F4D03F'))
         else:
             linewidths.append(1.0)
-            edgecolors.append(node_color)
+            edgecolors.append("#666666")
 
     # Draw nodes with above properties
     nx.draw_networkx_nodes(
@@ -125,7 +125,8 @@ def draw_graph(G, ax=None, circular=True):
             v: node_labels[v] for v, c in label_colors.items() if c==color
         }
         nx.draw_networkx_labels(
-            G, pos=pos, labels=labels, font_color=color, font_size=10,
+            G, pos=pos, labels=labels, font_color=color, font_size=11,
+            font_family="serif",
         )
 
     # Get edge properties to draw edges on
